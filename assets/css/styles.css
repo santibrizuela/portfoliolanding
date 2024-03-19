@@ -904,7 +904,8 @@ img{
 .footer-title,
 .footer-subtitle,
 .footer-link,
-.footer-social{
+.footer-social,
+.footer-copy{
     color: #FFF;
 }
 /*========== SCROLL UP ==========*/
